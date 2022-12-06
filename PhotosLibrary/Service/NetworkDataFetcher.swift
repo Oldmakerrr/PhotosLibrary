@@ -34,6 +34,5 @@ class NetworkDataFetcher {
             return nil
         }
     }
-    
-    
+
 }
